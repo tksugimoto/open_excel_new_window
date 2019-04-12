@@ -11,4 +11,4 @@ SET EXCEL_EXE_PATH="%OFFICE_DIR%EXCEL.EXE"
 
 title Excel %targetPath%
 
-%EXCEL_EXE_PATH% %targetPath%
+%EXCEL_EXE_PATH% /r %targetPath%
